@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/material-design/png/play107.png</file>
+        <file>../../../Downloads/material-design/png/play105.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>../../../Downloads/material-design/png/check52.png</file>
+        <file>../../../Downloads/material-design/png/close47.png</file>
+        <file>../../../Downloads/material-design/png/download164.png</file>
+        <file>../../../Downloads/material-design/png/fast46.png</file>
+        <file>../../../Downloads/material-design/png/favorite21.png</file>
+        <file>../../../Downloads/material-design/png/favorite22.png</file>
+        <file>../../../Downloads/material-design/png/folder215.png</file>
+        <file>../../../Downloads/material-design/png/high20.png</file>
+        <file>../../../Downloads/material-design/png/mark1.png</file>
+        <file>../../../Downloads/material-design/png/pause44.png</file>
+        <file>../../../Downloads/material-design/png/play106.png</file>
+        <file>../../../Downloads/material-design/png/play109.png</file>
+        <file>../../../Downloads/material-design/png/previous14.png</file>
+        <file>../../../Downloads/material-design/png/replay4.png</file>
+        <file>../../../Downloads/material-design/png/rewind45.png</file>
+        <file>../../../Downloads/material-design/png/round56.png</file>
+        <file>../../../Downloads/material-design/png/round57.png</file>
+        <file>../../../Downloads/material-design/png/sd8.png</file>
+        <file>../../../Downloads/material-design/png/search100.png</file>
+        <file>../../../Downloads/material-design/png/settings49.png</file>
+        <file>../../../Downloads/material-design/png/volume47.png</file>
+        <file>../../../Downloads/material-design/png/volume49.png</file>
+        <file>../../../Downloads/material-design/png/volume50.png</file>
+        <file>../../../Downloads/material-design/png/volume51.png</file>
+        <file>../../../Downloads/material-design/png/stop46.png</file>
+        <file>../../../Downloads/vk.png</file>
+    </qresource>
+</RCC>
